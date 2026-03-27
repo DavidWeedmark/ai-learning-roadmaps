@@ -169,11 +169,11 @@ The resources are organized by **subject**, **difficulty level**, and **resource
 
 | S.N | Area | AI/ML-Relevant Focus | Best Resource | Type | Level |
 |----|------|----------------------|--------------|------|-------|
-| 1 | Linear Algebra | Vectors, matrices, geometric intuition | [Essence of Linear Algebra – 3Blue1Brown](https://youtu.be/fNk_zzaMoSs?si=0KmoWdDVSrVQt6tP) | YouTube Playlist | Beginner |
+| 1 | Linear Algebra | Vectors, matrices, geometric intuition | [Essence of Linear Algebra – 3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=CsxJp-ryhlWPE7vR) | YouTube Playlist | Beginner |
 | 2 | Linear Algebra | Matrix operations for ML models | [MIT OCW – Linear Algebra (18.06)](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) | University Course | Beginner |
 | 3 | Linear Algebra | Eigenvalues, SVD, PCA | [Linear Algebra and Its Applications – Gilbert Strang](https://www.amazon.com/dp/0030105676) | Book | Intermediate |
 | 4 | Linear Algebra | Matrix factorization, embeddings | [Advanced Linear Algebra – Steven Roman](https://www.amazon.com/dp/0387728287) | Book | Advanced |
-| 5 | Calculus | Derivitives, derivative formulas, visualizing rules | [Essence of Calculus – 3Blue1Brown](https://youtu.be/WUvTyaaNkzM?si=u_t1fLPnSjd3NHe0) | YouTube Playlist | Beginner |
+| 5 | Calculus | Derivitives, derivative formulas, visualizing rules | [Essence of Calculus – 3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&si=a2l9ygrSRqSWcxyt) | YouTube Playlist | Beginner |
 | 6 | Calculus | Derivatives & gradients intuition | [Khan Academy – Calculus](https://www.khanacademy.org/math/calculus-1) | YouTube / Course | Beginner |
 | 7 | Calculus | Backpropagation, multivariable gradients | [MIT OCW – Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/) | University Course | Intermediate |
 | 8 | Calculus | Deep learning optimization theory | [Calculus – Michael Spivak](https://www.amazon.com/dp/0914098918) | Book | Advanced |
