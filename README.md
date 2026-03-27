@@ -169,29 +169,30 @@ The resources are organized by **subject**, **difficulty level**, and **resource
 
 | S.N | Area | AI/ML-Relevant Focus | Best Resource | Type | Level |
 |----|------|----------------------|--------------|------|-------|
-| 1 | Linear Algebra | Vectors, matrices, geometric intuition | [Essence of Linear Algebra – 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | YouTube Playlist | Beginner |
+| 1 | Linear Algebra | Vectors, matrices, geometric intuition | [Essence of Linear Algebra – 3Blue1Brown](https://youtu.be/fNk_zzaMoSs?si=0KmoWdDVSrVQt6tP) | YouTube Playlist | Beginner |
 | 2 | Linear Algebra | Matrix operations for ML models | [MIT OCW – Linear Algebra (18.06)](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) | University Course | Beginner |
 | 3 | Linear Algebra | Eigenvalues, SVD, PCA | [Linear Algebra and Its Applications – Gilbert Strang](https://www.amazon.com/dp/0030105676) | Book | Intermediate |
 | 4 | Linear Algebra | Matrix factorization, embeddings | [Advanced Linear Algebra – Steven Roman](https://www.amazon.com/dp/0387728287) | Book | Advanced |
-| 5 | Calculus | Derivatives & gradients intuition | [Khan Academy – Calculus](https://www.khanacademy.org/math/calculus-1) | YouTube / Course | Beginner |
-| 6 | Calculus | Backpropagation, multivariable gradients | [MIT OCW – Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/) | University Course | Intermediate |
-| 7 | Calculus | Deep learning optimization theory | [Calculus – Michael Spivak](https://www.amazon.com/dp/0914098918) | Book | Advanced |
-| 8 | Probability | Random variables, distributions | [Harvard Stat 110 – Probability](https://projects.iq.harvard.edu/stat110/home) | University Course | Beginner |
-| 9 | Probability | Bayes theorem, uncertainty | [Khan Academy – Probability](https://www.khanacademy.org/math/statistics-probability/probability-library) | YouTube / Course | Beginner |
-|10 | Probability | Probabilistic ML foundations | [A First Course in Probability – Sheldon Ross](https://www.amazon.com/dp/0134753119) | Book | Intermediate |
-|11 | Statistics | Data understanding & evaluation | [Khan Academy – Statistics](https://www.khanacademy.org/math/statistics-probability) | YouTube / Course | Beginner |
-| 12 | Statistics | Statistics for Data Science & ML | [Statistics – Full Lecture for Data Science (YouTube)](https://youtu.be/K9teElePNkk) | YouTube | Beginner → Intermediate |
-|13 | Statistics | Bias–variance, inference | [Statistical Inference – Casella & Berger](https://www.amazon.com/dp/0534243126) | Book | Intermediate |
-|14 | Statistics | Bayesian machine learning | [MIT OCW – Bayesian Statistics](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/) | University Course | Advanced |
-| 15 | Optimization | Gradient descent, convex optimization | [Convex Optimization – Boyd & Vandenberghe](https://www.amazon.com/dp/0521833787) | Book | Intermediate |
-| 15.1⭐ | Optimization | Convex optimization fundamentals (Stanford – Stephen Boyd) | [Convex Optimization (YouTube Lecture)](https://www.youtube.com/watch?v=kV1ru-Inzl4) | YouTube | Intermediate → Advanced |
-| 15.2 | Optimization | Optimization for Machine Learning | [Optimization in ML – Intro Lecture](https://www.youtube.com/watch?v=Dfz9nL_Ir6I) | YouTube | Intermediate |
-| 15.3⭐ | Optimization | Gradient descent & modern optimizers (SGD → Adam) | [Deep Learning Optimizers Explained](https://www.youtube.com/watch?v=TudQZtgpoHk) | YouTube | Beginner → Intermediate |
-| 15.4 | Optimization | Adaptive optimization methods | [Adagrad, RMSprop, Adam Explained](https://www.youtube.com/watch?v=1iwMICPqNCA) | YouTube | Intermediate |
-| 15.5 | Optimization | Convex optimization in ML practice | [Convex Optimization in Machine Learning](https://www.youtube.com/watch?v=FUGY7f05H_Q) | YouTube | Intermediate |
-| 16 | Optimization | Training deep neural networks | [Numerical Optimization – Nocedal & Wright](https://www.amazon.com/dp/0387303030) | Book | Advanced |
-| 16.1 | Optimization | Optimization methods for deep learning | [Optimization Methods in Deep Learning](https://www.youtube.com/watch?v=05WjCa1ikI8) | YouTube | Intermediate |
-| 16.2 | Optimization | Adam optimizer (deep dive) | [Adam Optimization Algorithm Explained](https://www.youtube.com/watch?v=MWZakqZDgfQ) | YouTube | Intermediate |
+| 5 | Calculus | Derivitives, derivative formulas, visualizing rules | [Essence of Calculus – 3Blue1Brown](https://youtu.be/WUvTyaaNkzM?si=u_t1fLPnSjd3NHe0) | YouTube Playlist | Beginner |
+| 6 | Calculus | Derivatives & gradients intuition | [Khan Academy – Calculus](https://www.khanacademy.org/math/calculus-1) | YouTube / Course | Beginner |
+| 7 | Calculus | Backpropagation, multivariable gradients | [MIT OCW – Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/) | University Course | Intermediate |
+| 8 | Calculus | Deep learning optimization theory | [Calculus – Michael Spivak](https://www.amazon.com/dp/0914098918) | Book | Advanced |
+| 9 | Probability | Random variables, distributions | [Harvard Stat 110 – Probability](https://projects.iq.harvard.edu/stat110/home) | University Course | Beginner |
+| 10 | Probability | Bayes theorem, uncertainty | [Khan Academy – Probability](https://www.khanacademy.org/math/statistics-probability/probability-library) | YouTube / Course | Beginner |
+|11 | Probability | Probabilistic ML foundations | [A First Course in Probability – Sheldon Ross](https://www.amazon.com/dp/0134753119) | Book | Intermediate |
+|12 | Statistics | Data understanding & evaluation | [Khan Academy – Statistics](https://www.khanacademy.org/math/statistics-probability) | YouTube / Course | Beginner |
+| 13 | Statistics | Statistics for Data Science & ML | [Statistics – Full Lecture for Data Science (YouTube)](https://youtu.be/K9teElePNkk) | YouTube | Beginner → Intermediate |
+|14 | Statistics | Bias–variance, inference | [Statistical Inference – Casella & Berger](https://www.amazon.com/dp/0534243126) | Book | Intermediate |
+|15 | Statistics | Bayesian machine learning | [MIT OCW – Bayesian Statistics](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/) | University Course | Advanced |
+| 16.1 | Optimization | Gradient descent, convex optimization | [Convex Optimization – Boyd & Vandenberghe](https://www.amazon.com/dp/0521833787) | Book | Intermediate |
+| 16.2⭐ | Optimization | Convex optimization fundamentals (Stanford – Stephen Boyd) | [Convex Optimization (YouTube Lecture)](https://www.youtube.com/watch?v=kV1ru-Inzl4) | YouTube | Intermediate → Advanced |
+| 16.3 | Optimization | Optimization for Machine Learning | [Optimization in ML – Intro Lecture](https://www.youtube.com/watch?v=Dfz9nL_Ir6I) | YouTube | Intermediate |
+| 16.4⭐ | Optimization | Gradient descent & modern optimizers (SGD → Adam) | [Deep Learning Optimizers Explained](https://www.youtube.com/watch?v=TudQZtgpoHk) | YouTube | Beginner → Intermediate |
+| 16.5 | Optimization | Adaptive optimization methods | [Adagrad, RMSprop, Adam Explained](https://www.youtube.com/watch?v=1iwMICPqNCA) | YouTube | Intermediate |
+| 16.6 | Optimization | Convex optimization in ML practice | [Convex Optimization in Machine Learning](https://www.youtube.com/watch?v=FUGY7f05H_Q) | YouTube | Intermediate |
+| 16.7 | Optimization | Training deep neural networks | [Numerical Optimization – Nocedal & Wright](https://www.amazon.com/dp/0387303030) | Book | Advanced |
+| 16.8 | Optimization | Optimization methods for deep learning | [Optimization Methods in Deep Learning](https://www.youtube.com/watch?v=05WjCa1ikI8) | YouTube | Intermediate |
+| 16.9 | Optimization | Adam optimizer (deep dive) | [Adam Optimization Algorithm Explained](https://www.youtube.com/watch?v=MWZakqZDgfQ) | YouTube | Intermediate |
 
 ---
 
